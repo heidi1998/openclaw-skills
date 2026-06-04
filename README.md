@@ -1,45 +1,23 @@
 # 🐾 OpenClaw Skills Collection
 
-> 两个实用的 OpenClaw Skill：约克夏小狗养育助手 + 旅行助手
+> 包含两个高质量、深度定制的 OpenClaw Skill：约克夏小狗养育助手 + 贴心旅行助手。告别空洞模板，为您提供开箱即用的优质 AI 体验。
 
-## Skills 列表
+## 📦 Skills 列表
 
-### 🐶 约克夏小狗养育助手 `yorkshire-puppy-care`
+### 🐶 约克夏小狗养育助手 (`yorkshire-puppy-care`)
 
-专为约克夏梗犬主人设计的智能养育顾问。
+专为约克夏梗犬主人设计的智能养育顾问。它不仅是一个提醒工具，更是你的专属“线上宠物医生朋友”。
 
-**功能：**
-- 🔔 自动提醒喂食、洗澡、驱虫、疫苗时间
-- 😊 分析狗狗情绪和行为异常
-- 🔍 联网回答你提出的任何问题
+**✨ 核心功能：**
+- **📋 专属档案与动态日程**：首次对话即可建立狗狗档案，自动生成并推算喂食、洗澡、内外驱虫、疫苗的个性化时间表。
+- **🔔 智能情境提醒**：根据当前对话时间，主动计算并提醒即将到期的日常护理事项。
+- **😊 行为与情绪翻译官**：深度分析狗狗“不吃饭”、“一直叫”、“频繁舔爪子”等异常行为背后的原因，并给出实操建议。
+- **🔍 实时知识检索**：遇事不决随时提问，自动联网检索最新的宠物医学、狗粮测评和养护知识。
 
-**安装：**
+**💬 对话示例：**
+> **用户**：球球这两天总是一直叫，还不爱吃狗粮，是怎么回事？
+> **助手**：(助手将自动分析分离焦虑、肠胃不适或换牙期等可能原因，并给出具体的排查步骤和应对方案)
+
+**💻 安装：**
 ```bash
-openclaw skill install https://github.com/heidi1998/openclaw-skills/tree/main/yorkshire-puppy-care
-```
-
----
-
-### ✈️ 旅行助手 `travel-assistant`
-
-像真人助手一样贴心的旅行规划顾问。
-
-**功能：**
-- 📋 自动整理你的旅行信息生成总览表
-- ⚠️ 主动提醒你可能忽略的签证、天气、文化禁忌
-- 🧳 生成个性化行李清单
-- 🌤️ 查询目的地实时天气
-
-**安装：**
-```bash
-openclaw skill install https://github.com/heidi1998/openclaw-skills/tree/main/travel-assistant
-```
-
----
-
-## 使用要求
-- OpenClaw 2026.5 及以上版本
-- 需要配置 DeepSeek API
-
-## 作者
-Made with ❤️ by [@heidi1998](https://github.com/heidi1998)
+openclaw skill install [https://github.com/heidi1998/openclaw-skills/tree/main/yorkshire-puppy-care](https://github.com/heidi1998/openclaw-skills/tree/main/yorkshire-puppy-care)
